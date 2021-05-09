@@ -1,0 +1,40 @@
+#unique{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading{
+    font-size: larger;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h8{
+    font-size: 35px;
+    color: white;
+    font-display: bold;
+}
+h1{
+    font-size: 15px;
+    color: white;
+}
+h2{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: greenyellow;
+}
+h3{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+p{
+    font-size: 11px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+a{
+    color: red;
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
